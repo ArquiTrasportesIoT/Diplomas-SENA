@@ -1,6 +1,8 @@
 # Diplomas-SENA
 Mis logros en el SENA
 
+![Diploma Metodologia](Metodolog%C3%ADa%20de%20la%20program...png)
+
 ### Contenido
 1. fundamentos de programación
 1.1 conceptos generales de programación, Que es computador, Software y hardware

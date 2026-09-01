@@ -1,7 +1,7 @@
 # Diplomas-SENA
 Mis logros en el SENA
 
-![Mi Diploma SENA](Metodología-de-la-programacion.png)
+![Mi Diploma SENA](Diploma.png)
 
 ### Contenido
 1. fundamentos de programación
